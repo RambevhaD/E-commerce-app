@@ -1,21 +1,20 @@
 export const products = [
   {
-    name: 'Phone XL',
+    name: "Samsung",
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: "This has to be one of the best samsungs"
   },
   {
-    name: 'Phone Mini',
+    name: "Iphone",
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: "A great phone with one of the best cameras"
   },
   {
-    name: 'Phone Standard',
+    name: "Nokia",
     price: 299,
-    description: ''
+    description: "not bad at all"
   }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
